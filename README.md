@@ -20,8 +20,8 @@ and [setup guide](https://www.terraform.io/docs/providers/oci/guides/version-3-u
 ## Clone the Module
 Now, you'll want a local copy of this repo. You can make that with the commands:
 
-    git clone https://github.com/oracle-quickstart/oci-arch-data-flow.git
-    cd oci-arch-data-flow
+    git https://github.com/oracle-quickstart/oci-arch-dataflow-store-analyze-data.git
+    cd oci-arch-dataflow-store-analyze-data
     ls
 
 ## Prerequisites
