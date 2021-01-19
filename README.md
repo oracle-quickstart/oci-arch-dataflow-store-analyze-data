@@ -62,7 +62,7 @@ When you no longer need the deployment, you can run this command to destroy it:
 
 ## Architecture
 
-![](./images/architecture-analyze-logs.png.png)
+![](./images/architecture-analyze-logs.png)
 
 
 ## Reference Architecture
