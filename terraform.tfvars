@@ -17,7 +17,7 @@ object_storage_namespace = "YOUR-OBJECT-STORAGE-NAMESPACE"
 # Buckets for the Dataflow app
 logs_bucket_name        = "dataflow-logs"   # Required for Dataflow service to store its logs
 apps_bucket_name        = "apps"            # Dataflow app goes in this bucket
-apps_bucket_object_name = "dataflow-app.py" # Name of your Dataflow app
+apps_bucket_object_name = "dataflow-app.py" # Name of the Dataflow app
 data_bucket_name        = "data"            # Your on-prem logs are stored here
 
 # Files to upload into Object Storage
