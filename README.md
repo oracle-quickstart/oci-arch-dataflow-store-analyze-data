@@ -18,5 +18,5 @@ You can view the [Store and analyze your on-premises logs in Oracle Cloud Infras
 
 [Store and analyze your on-premises logs in Oracle Cloud Infrastructure]: https://docs.oracle.com/en/solutions/analyze-logs/index.html
     "Store and analyze your on-premises logs in Oracle Cloud Infrastructure"
-[Set up Data Flow to Process Your On-premises logs in Oracle Cloud Infrastructure]: https://docs.oracle.com/en/learn/architecture-analyze-logs/index.html
+[Set up Data Flow to Process Your On-premises logs in Oracle Cloud Infrastructure]: https://docs.oracle.com/en/learn/data-flow-analyze-logs/index.html
     "Set up Data Flow to Process Your On-premises logs in Oracle Cloud Infrastructure"
